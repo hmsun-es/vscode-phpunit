@@ -1,17 +1,17 @@
 {
-    "name": "vscode-phpunit",
+    "name": "vscode-phpunit-messe",
     "description": "PHPUnit Test Explorer",
     "displayName": "PHPUnit Test Explorer",
     "icon": "img/icon.png",
-    "author": "recca0120",
+    "author": "hmsun-es",
     "license": "MIT",
     "version": "2.0.76",
     "preview": true,
     "repository": {
         "type": "git",
-        "url": "https://github.com/recca0120/vscode-phpunit"
+        "url": "https://github.com/hmsun-es/vscode-phpunit"
     },
-    "publisher": "recca0120",
+    "publisher": "hmsun-es",
     "categories": [
         "Other",
         "Debuggers",
